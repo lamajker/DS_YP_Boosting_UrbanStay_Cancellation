@@ -1,0 +1,2 @@
+# DS_YP_Boosting_UrbanStay_Cancellation
+Прогнозирование отмен бронирований в сети отелей UrbanStay
